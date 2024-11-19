@@ -1,0 +1,20 @@
+
+DialogueMood_disappointment.png
+size: 244,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xinsuiyou
+  rotate: true
+  xy: 2, 3
+  size: 79, 119
+  orig: 79, 119
+  offset: 0, 0
+  index: -1
+xinsuizuo
+  rotate: true
+  xy: 123, 2
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+DialogueMood_shock.png
+size: 112,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chijing
+  rotate: false
+  xy: 2, 2
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1

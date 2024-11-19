@@ -1,0 +1,17 @@
+{
+	"name": "com.nd.spine",
+	"displayName": "[Third] spine-unity Runtime",
+	"description": "Spine",
+	"version": "3.8.2",
+	"unity": "2018.3",
+	"author": {
+	  "name": "Third"
+	},
+	"dependencies": {
+	},
+	"keywords": [
+		"spine",
+		"spine-unity",
+		"core"
+	]
+}

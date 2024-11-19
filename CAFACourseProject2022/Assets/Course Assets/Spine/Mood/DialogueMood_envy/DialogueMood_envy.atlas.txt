@@ -1,0 +1,27 @@
+
+DialogueMood_envy.png
+size: 136,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xianmu1
+  rotate: false
+  xy: 2, 57
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+xianmu2
+  rotate: false
+  xy: 74, 69
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+xianmu3
+  rotate: true
+  xy: 74, 17
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1

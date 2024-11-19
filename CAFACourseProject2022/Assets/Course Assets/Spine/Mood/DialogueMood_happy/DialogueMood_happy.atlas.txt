@@ -1,0 +1,48 @@
+
+DialogueMood_happy.png
+size: 160,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 49, 3
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 74, 99
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 2, 2
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 74, 47
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: true
+  xy: 2, 40
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: false
+  xy: 2, 88
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1

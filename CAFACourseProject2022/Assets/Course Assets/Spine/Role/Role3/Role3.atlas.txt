@@ -1,0 +1,209 @@
+
+Role3.png
+size: 732,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 330, 170
+  size: 183, 188
+  orig: 188, 188
+  offset: 5, 0
+  index: -1
+EarL
+  rotate: false
+  xy: 2, 244
+  size: 141, 108
+  orig: 141, 109
+  offset: 0, 1
+  index: -1
+EarR1
+  rotate: false
+  xy: 135, 3
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+EarR2
+  rotate: false
+  xy: 235, 171
+  size: 87, 162
+  orig: 88, 169
+  offset: 1, 7
+  index: -1
+EarRyz
+  rotate: false
+  xy: 293, 335
+  size: 35, 90
+  orig: 35, 90
+  offset: 0, 0
+  index: -1
+FoorR
+  rotate: true
+  xy: 145, 274
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+FootL
+  rotate: true
+  xy: 443, 108
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 351, 503
+  size: 226, 236
+  orig: 226, 236
+  offset: 0, 0
+  index: -1
+LegL
+  rotate: false
+  xy: 145, 175
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+LegR
+  rotate: false
+  xy: 2, 2
+  size: 131, 83
+  orig: 131, 83
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 235, 35
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 2, 95
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 589, 305
+  size: 203, 116
+  orig: 203, 118
+  offset: 0, 2
+  index: -1
+daimao
+  rotate: true
+  xy: 293, 427
+  size: 75, 49
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: true
+  xy: 443, 22
+  size: 63, 113
+  orig: 63, 113
+  offset: 0, 0
+  index: -1
+lingzihou
+  rotate: false
+  xy: 2, 354
+  size: 289, 148
+  orig: 289, 150
+  offset: 0, 0
+  index: -1
+lingziqian
+  rotate: false
+  xy: 584, 132
+  size: 144, 171
+  orig: 147, 171
+  offset: 3, 0
+  index: -1
+pifenghou
+  rotate: false
+  xy: 2, 504
+  size: 347, 225
+  orig: 347, 225
+  offset: 0, 0
+  index: -1
+pifengyou
+  rotate: false
+  xy: 589, 510
+  size: 128, 219
+  orig: 129, 219
+  offset: 0, 0
+  index: -1
+pifengzuo
+  rotate: true
+  xy: 344, 355
+  size: 146, 237
+  orig: 146, 237
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 520, 87
+  size: 266, 62
+  orig: 266, 62
+  offset: 0, 0
+  index: -1
+youbiyan
+  rotate: false
+  xy: 91, 204
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: false
+  xy: 273, 7
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 584, 14
+  size: 116, 133
+  orig: 116, 133
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 235, 2
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+zuobiyan
+  rotate: true
+  xy: 2, 197
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: false
+  xy: 39, 162
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 328, 14
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 48, 198
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1

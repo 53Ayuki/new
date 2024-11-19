@@ -1,0 +1,132 @@
+
+FloorTree.png
+size: 856,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dingceng
+  rotate: false
+  xy: 2, 287
+  size: 532, 206
+  orig: 532, 206
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 2, 495
+  size: 466, 359
+  orig: 466, 359
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 470, 596
+  size: 330, 258
+  orig: 330, 258
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: false
+  xy: 2, 22
+  size: 399, 263
+  orig: 400, 264
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: false
+  xy: 403, 60
+  size: 326, 221
+  orig: 326, 221
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: true
+  xy: 763, 458
+  size: 136, 87
+  orig: 136, 87
+  offset: 0, 0
+  index: -1
+shugan
+  rotate: true
+  xy: 536, 283
+  size: 311, 225
+  orig: 311, 225
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 731, 12
+  size: 269, 98
+  orig: 316, 102
+  offset: 0, 0
+  index: -1
+yezi 2
+  rotate: true
+  xy: 496, 555
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+yezi0
+  rotate: false
+  xy: 2, 2
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 763, 393
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: true
+  xy: 807, 407
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: false
+  xy: 802, 774
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+yezi5
+  rotate: true
+  xy: 496, 519
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+yezi6
+  rotate: false
+  xy: 403, 23
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+yezi7
+  rotate: true
+  xy: 763, 330
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+yezi8
+  rotate: false
+  xy: 802, 819
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+yezi9
+  rotate: true
+  xy: 470, 512
+  size: 82, 24
+  orig: 82, 24
+  offset: 0, 0
+  index: -1

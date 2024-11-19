@@ -1,0 +1,48 @@
+
+tree4.png
+size: 540,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu4
+  rotate: true
+  xy: 2, 2
+  size: 135, 413
+  orig: 135, 413
+  offset: 0, 0
+  index: -1
+touying4
+  rotate: false
+  xy: 417, 112
+  size: 97, 25
+  orig: 97, 25
+  offset: 0, 0
+  index: -1
+ye41
+  rotate: true
+  xy: 483, 54
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+ye42
+  rotate: false
+  xy: 417, 61
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+ye43
+  rotate: false
+  xy: 481, 5
+  size: 57, 47
+  orig: 57, 49
+  offset: 0, 2
+  index: -1
+ye44
+  rotate: false
+  xy: 417, 11
+  size: 62, 48
+  orig: 66, 48
+  offset: 4, 0
+  index: -1

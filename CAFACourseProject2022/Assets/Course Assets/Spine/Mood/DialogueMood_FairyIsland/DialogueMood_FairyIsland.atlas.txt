@@ -1,0 +1,27 @@
+
+DialogueMood_FairyIsland.png
+size: 444,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: false
+  xy: 356, 150
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: true
+  xy: 356, 213
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 2, 2
+  size: 352, 300
+  orig: 352, 300
+  offset: 0, 0
+  index: -1

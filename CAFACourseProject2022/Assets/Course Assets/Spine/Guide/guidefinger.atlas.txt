@@ -1,0 +1,13 @@
+
+guidefinger.png
+size: 188,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzhi
+  rotate: false
+  xy: 2, 2
+  size: 164, 181
+  orig: 164, 181
+  offset: 0, 0
+  index: -1

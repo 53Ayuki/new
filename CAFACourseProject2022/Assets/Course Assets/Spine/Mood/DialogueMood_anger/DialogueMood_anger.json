@@ -1,0 +1,57 @@
+{
+"skeleton": {
+	"hash": "xmgsqayW/Y9B7fZ/dOk9rq7DHJQ",
+	"spine": "3.8.99",
+	"x": 25.19,
+	"y": 43.02,
+	"width": 107,
+	"height": 109,
+	"images": "./images/",
+	"audio": "E:/Work/220129_心情气泡/生气"
+},
+"bones": [
+	{ "name": "root", "x": 78.69, "y": 97.52 }
+],
+"slots": [
+	{ "name": "shengqi", "bone": "root", "attachment": "shengqi" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"shengqi": {
+				"shengqi": { "width": 107, "height": 109 }
+			}
+		}
+	}
+],
+"animations": {
+	"anger": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 28.11 },
+					{ "time": 0.3, "angle": -28.44 },
+					{ "time": 0.4667, "angle": 25.61 },
+					{ "time": 0.6333, "angle": -11.48, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "angle": 13.63, "curve": 0.209, "c2": 0.25, "c3": 0.75 },
+					{ "time": 1 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.2, "x": 1.442, "y": 1.442, "curve": 0.344, "c2": 0.4, "c3": 0.75 },
+					{ "time": 0.5 }
+				],
+				"shear": [
+					{},
+					{ "time": 0.2, "x": -20.76 },
+					{ "time": 0.4333, "x": 15.71, "curve": 0.261, "c2": 0.21, "c3": 0.75 },
+					{ "time": 0.7333, "x": -10.7, "curve": 0.261, "c2": 0.21, "c3": 0.75 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

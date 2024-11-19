@@ -1,0 +1,167 @@
+
+Role2_2.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyanyou
+  rotate: false
+  xy: 663, 138
+  size: 55, 59
+  orig: 57, 62
+  offset: 0, 3
+  index: -1
+biyanzuo
+  rotate: true
+  xy: 478, 109
+  size: 80, 73
+  orig: 82, 77
+  offset: 2, 4
+  index: -1
+chibangyou
+  rotate: false
+  xy: 349, 343
+  size: 181, 166
+  orig: 181, 166
+  offset: 0, 0
+  index: -1
+chibangzuo
+  rotate: false
+  xy: 345, 511
+  size: 208, 207
+  orig: 223, 251
+  offset: 10, 42
+  index: -1
+jiao
+  rotate: false
+  xy: 454, 18
+  size: 93, 89
+  orig: 93, 92
+  offset: 0, 3
+  index: -1
+lianshang
+  rotate: false
+  xy: 2, 107
+  size: 236, 171
+  orig: 236, 171
+  offset: 0, 0
+  index: -1
+lianxia
+  rotate: true
+  xy: 555, 473
+  size: 245, 129
+  orig: 245, 129
+  offset: 0, 0
+  index: -1
+lingziyou
+  rotate: false
+  xy: 240, 127
+  size: 73, 131
+  orig: 77, 131
+  offset: 0, 0
+  index: -1
+lingzizuo
+  rotate: true
+  xy: 538, 253
+  size: 106, 156
+  orig: 127, 169
+  offset: 21, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 505
+  size: 341, 213
+  orig: 341, 213
+  offset: 0, 0
+  index: -1
+maozijie
+  rotate: false
+  xy: 549, 22
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+pidai
+  rotate: false
+  xy: 2, 12
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 280
+  size: 239, 223
+  orig: 239, 224
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 315, 191
+  size: 228, 51
+  orig: 228, 51
+  offset: 0, 0
+  index: -1
+touyingzi
+  rotate: false
+  xy: 545, 199
+  size: 169, 52
+  orig: 169, 52
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 349, 244
+  size: 187, 97
+  orig: 190, 97
+  offset: 3, 0
+  index: -1
+yanjingyou
+  rotate: false
+  xy: 643, 23
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+yanjingzuo
+  rotate: false
+  xy: 250, 12
+  size: 101, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 553, 109
+  size: 108, 88
+  orig: 156, 92
+  offset: 48, 3
+  index: -1
+youshou
+  rotate: true
+  xy: 243, 260
+  size: 243, 104
+  orig: 243, 104
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 315, 110
+  size: 161, 79
+  orig: 161, 79
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 353, 22
+  size: 99, 86
+  orig: 100, 88
+  offset: 0, 2
+  index: -1
+zuoshou
+  rotate: false
+  xy: 532, 361
+  size: 177, 110
+  orig: 177, 121
+  offset: 0, 11
+  index: -1
